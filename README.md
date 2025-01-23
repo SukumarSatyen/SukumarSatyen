@@ -4,6 +4,14 @@
 
 ---
 
+## 2023 Onwards
+- Developed an **Intelligent Document Summarization and Retrieval System**, leveraging **GraphQL** for seamless user interaction.
+- Implemented a **LangChain-based pipeline** for document summarization, integrating **retrieval-augmented generation** techniques.
+- Enhanced cloud-based solutions using **AWS Lambda**, **OpenSearch**, and other serverless technologies.
+- Designed fault-tolerant systems to achieve high availability and consistent performance in large-scale operations.
+
+---
+
 ## 2022 Onwards
 - Migrated service-oriented architecture (SOA) and microservices architecture from Linux to Windows servers for real-time marketing analytics using **Apache Kafka**, improving data throughput and scalability.
 - Focused on optimizing **time complexity** in large-scale data processing pipelines to meet real-time performance requirements.
