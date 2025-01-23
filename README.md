@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Chronological Development Progress
+# My Software Development journey
 
 ---
 
